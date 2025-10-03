@@ -6,7 +6,7 @@ public class BufferReader {
 
         InputStreamReader input = new InputStreamReader(System.in);
         BufferedReader reader = new BufferedReader(input);
- 
+  
         System.out.print("Enter you name : ");
         String name = reader.readLine();
         System.out.println("you entered :");
