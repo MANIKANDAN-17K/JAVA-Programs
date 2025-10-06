@@ -5,7 +5,7 @@ public class Person{
     public Person( String name,int age) {
         this.name = name;
         this.age = age;
-    }
+    } 
     void display(){
         System.out.println("name :"+name+"\n age:"+age);
     }
@@ -19,3 +19,4 @@ class ClassObject1{
     }
 
 }
+
