@@ -9,7 +9,7 @@ public class Person{
     void display(){
         System.out.println("name :"+name+"\n age:"+age);
     }
-    
+     
 }
 class ClassObject1{
     public static void main(String[] args) {
@@ -19,4 +19,5 @@ class ClassObject1{
     }
 
 }
+
 
