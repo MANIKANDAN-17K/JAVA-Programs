@@ -7,7 +7,7 @@ public class ATMSystem{
     user1.start();
     user3.start(); 
     user2.start();  
-  }
+  } 
 }
 class BankAccount{
   private int balance;
