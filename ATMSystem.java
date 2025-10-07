@@ -6,7 +6,7 @@ public class ATMSystem{
     ATMUser user3 = new ATMUser(account,"alice",3000);
     user1.start();
     user3.start(); 
-    user2.start(); 
+    user2.start();  
   }
 }
 class BankAccount{
