@@ -9,7 +9,7 @@ public class BufferReader {
    
         System.out.print("Enter you name : ");
         String name = reader.readLine();
-        System.out.println("you entered :");
+        System.out.println("You entered :");
         System.out.print(name);
         System.out.println("\n");
         input.close();
